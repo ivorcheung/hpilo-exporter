@@ -37,6 +37,7 @@ setup(
     install_requires=[
         "prometheus-client",
         "python-hpilo",
+        "lmdb",
     ],
     entry_points={
         'console_scripts': [
