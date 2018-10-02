@@ -38,6 +38,8 @@ setup(
         "prometheus-client",
         "python-hpilo",
         "lmdb",
+        "pandas",
+        "Paver",
     ],
     entry_points={
         'console_scripts': [
